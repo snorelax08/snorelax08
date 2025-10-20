@@ -1,20 +1,22 @@
-<p align="center" style="margin-top: 30px; padding-top: 15px; border-top: 2px solid rgba(255, 255, 255, 0.2);">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=40&duration=4000&pause=1000&center=true&width=700&lines=Hi+👋+I'm+Atharwa+Vatsyayan;Full-Stack+Developer;ML+Enthusiast;Quantum+Explorer" alt="Typing SVG" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=80&section=header"/>
 
-<p align="center">
-  <h3 align="center">🚀 Transforming Ideas Into Intelligent Solutions</h3>
-  <p align="center"><b>4th Year B.Tech CSE @ VIT Vellore</b> | Building the Future with Code & Quantum Tech</p>
-</p>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=30&duration=4000&pause=1000&center=true&vCenter=true&width=650&lines=👋+Hi%2C+I'm+Atharwa+Vatsyayan;🚀+Full-Stack+Developer;🤖+Machine+Learning+Enthusiast;⚛️+Quantum+Explorer" alt="Typing SVG">
+  </a>
+</div>
+
+<h3 align="center">🚀 Transforming Ideas Into Intelligent Solutions</h3>
+<p align="center"><b>4th Year B.Tech CSE @ VIT Vellore</b> | Building the Future with Code & Quantum Tech</p>
 
 ---
 
 ## 🎯 About Me
 
-👨‍💻 I'm a passionate Full-Stack Developer & ML Enthusiast  
-🔭 Currently exploring Quantum Neural Networks for healthcare AI  
+👨‍💻 Passionate Full-Stack Developer & ML Enthusiast  
+🔭 Exploring Quantum Neural Networks for healthcare AI  
 💡 Obsessed with solving real-world problems through innovative tech  
-🌱 Always learning cutting-edge technologies  
+🌱 Continuously learning cutting-edge technologies  
 ⏰ Fun Fact: I can wake up without an alarm!
 
 ---
@@ -22,26 +24,11 @@
 ## 🛠️ Technology Arsenal
 
 ### 🧠 Languages & Core
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img alt="C++" src="https://img.shields.io/badge/C++-1E2E3B?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-FFFFFF?style=for-the-badge&logo=html5&logoColor=E34F26">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-FFFFFF?style=for-the-badge&logo=css3&logoColor=1572B6">
-</picture>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### ⚙️ Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -67,34 +54,25 @@
 
 | Project | Description |
 |----------|-------------|
-| 🎯 **Quantum Neural Networks (QNN)** | Building AI models for disease detection using quantum computing principles. Bridging the gap between quantum technology and healthcare. |
-| 📚 **Advanced DSA** | Mastering Data Structures & Algorithms to enhance problem-solving capabilities and ace competitive programming challenges. |
-| 🌐 **Full-Stack Development** | Creating production-ready web applications with modern tech stacks, focusing on performance and user experience. |
-| 🤖 **Machine Learning** | Exploring deep learning, computer vision, and data analysis to build intelligent systems that matter. |
+| 🎯 **Quantum Neural Networks (QNN)** | Building AI models for disease detection using quantum computing principles. |
+| 📚 **Advanced DSA** | Mastering Data Structures & Algorithms for better problem-solving. |
+| 🌐 **Full-Stack Development** | Creating production-ready web apps with performance and UX focus. |
+| 🤖 **Machine Learning** | Exploring deep learning, computer vision, and intelligent systems. |
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=snorelax08&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=snorelax08&theme=default&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=snorelax08&theme=tokyonight&show_icons=true&hide_border=false" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=snorelax08&theme=tokyonight&hide_border=false">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=snorelax08&theme=default&hide_border=false" alt="GitHub Streak" />
-  </picture>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snorelax08&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=snorelax08&theme=tokyonight&hide_border=false&layout=compact">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snorelax08&theme=default&hide_border=false&layout=compact" alt="Top Languages" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snorelax08&theme=tokyonight&layout=compact&hide_border=false" alt="Top Languages" />
 </p>
 
 ---
@@ -102,22 +80,18 @@
 ## 🌐 Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/atharwavatsyayan/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://instagram.com/atharwa.23"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="mailto:atharwared@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://github.com/snorelax08"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/atharwavatsyayan/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://instagram.com/atharwa.23"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:atharwared@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/snorelax08"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
 
-## 💡 Quote of the Day
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=26&duration=4000&pause=1000&center=true&vCenter=true&width=500&lines=✨+Thank+You+for+Visiting!;Have+a+Wonderful+Day!+🚀" alt="Typing SVG">
+  </a>
+</div>
 
-<p align="center">
-  <i>"Code is poetry written for computers to execute and humans to understand."</i>
-</p>
-
----
-
-<p align="center">
-  ⭐ If you like my work, <a href="https://github.com/snorelax08/snorelax08">star this repo</a>!
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=80&section=footer"/>
