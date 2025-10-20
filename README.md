@@ -1,6 +1,6 @@
 # <div align="center">
 # 
-# ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=1000&lines=Hi+%F0%9F%91%8B+I'm+Atharwa+Vatsyayan;Full-Stack+Developer;ML+Enthusiast;Quantum+Explorer)
+# ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&size=40&duration=4000&pause=1000&center=true&width=600&lines=Hi+👋+I'm+Atharwa+Vatsyayan;Full-Stack+Developer;ML+Enthusiast;Quantum+Explorer)
 # 
 # </div>
 
