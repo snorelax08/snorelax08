@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" style="margin-top: 30px; padding-top: 15px; border-top: 2px solid rgba(255, 255, 255, 0.2);">
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=40&duration=4000&pause=1000&center=true&width=700&lines=Hi+👋+I'm+Atharwa+Vatsyayan;Full-Stack+Developer;ML+Enthusiast;Quantum+Explorer" alt="Typing SVG" />
 </p>
 
