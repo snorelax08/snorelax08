@@ -20,7 +20,7 @@
 
 ---
 
-## 🛠️ Technology Arsenal
+## 🛠️ Tech
 
 <div align="center">
 
@@ -102,23 +102,6 @@ Exploring deep learning, computer vision, and data analysis to build intelligent
 
 ---
 
-## 🎨 Skills Highlights
-
-<div align="center">
-
-| Skill | Proficiency |
-|-------|-------------|
-| 💻 **Web Development** | ⭐⭐⭐⭐⭐ |
-| 🤖 **Machine Learning** | ⭐⭐⭐⭐☆ |
-| 📊 **Data Analysis** | ⭐⭐⭐⭐⭐ |
-| 🔧 **Backend Development** | ⭐⭐⭐⭐☆ |
-| 🌌 **Quantum Computing** | ⭐⭐⭐☆☆ |
-| 🎯 **Problem Solving** | ⭐⭐⭐⭐⭐ |
-
-</div>
-
----
-
 ## 🌐 Let's Connect!
 
 <div align="center">
@@ -131,8 +114,6 @@ Exploring deep learning, computer vision, and data analysis to build intelligent
 </div>
 
 ---
-
-## 🐍 Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/inflixop/inflixop/output/github-snake-dark.svg" />
