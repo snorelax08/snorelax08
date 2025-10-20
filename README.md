@@ -1,8 +1,8 @@
-# <div align="center">
-# 
-# ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&size=40&duration=4000&pause=1000&center=true&width=600&lines=Hi+👋+I'm+Atharwa+Vatsyayan;Full-Stack+Developer;ML+Enthusiast;Quantum+Explorer)
-# 
-# </div>
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&size=40&duration=4000&pause=1000&center=true&width=700&lines=Hi+👋+I'm+Atharwa+Vatsyayan;Full-Stack+Developer;ML+Enthusiast;Quantum+Explorer)
+
+</div>
 
 <div align="center">
 
